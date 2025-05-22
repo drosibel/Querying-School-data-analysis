@@ -34,11 +34,12 @@ This project contains a collection of SQL queries that analyze school and distri
  AND "per_pupil_expenditure"> (SELECT AVG("per_pupil_expenditure") FROM "expenditures")
  AND "exemplary"> (SELECT AVG("exemplary") FROM "staff_evaluations")
  ORDER BY "exemplary" DESC, "per_pupil_expenditure" DESC;
+```
 
-## 🛠️ Technologies:
-
-    -SQL
-    -Compatible with SQLite, PostgreSQL, or similar RDBMS
+## 🛠️ Technologies
+ 
+   -SQL
+   -Compatible with SQLite, PostgreSQL, or similar RDBMS
 
 ## 🚀 How to Use
 
