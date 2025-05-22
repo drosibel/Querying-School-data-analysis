@@ -38,14 +38,14 @@ This project contains a collection of SQL queries that analyze school and distri
 
 ## 🛠️ Technologies
  
-   -SQL
-   -Compatible with SQLite, PostgreSQL, or similar RDBMS
+- SQL
+- Compatible with SQLite, PostgreSQL, or similar RDBMS
 
 ## 🚀 How to Use
 
 These queries can be executed on a relational database that includes the following tables:
--schools
--districts
--expenditures
--graduation_rates
--staff_evaluations
+- schools
+- districts
+- expenditures
+- graduation_rates
+- staff_evaluations
